@@ -18,7 +18,7 @@ public class ProductInfo {
     private String productName;
     private BigDecimal productPrice;
     private Integer productStock;
-    private String productDesc;
+    private String productDescription;
     private String productIcon;
     private Integer productStatus;
     private Integer categoryType;
