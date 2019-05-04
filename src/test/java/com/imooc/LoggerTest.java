@@ -1,4 +1,4 @@
-package com.imooc.sell;
+package com.imooc;
 
 import lombok.extern.slf4j.Slf4j;
 import org.junit.Test;
@@ -17,4 +17,6 @@ public class LoggerTest {
         log.info("test1");
         log.error("test1");
     }
+
+
 }
