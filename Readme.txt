@@ -12,3 +12,8 @@ fix issue:"'sell.hibernate_sequence' doesn't exist"
    订单数据（orderMaster）入库
    扣库存
 
+
+熟悉java操作：
+1,BeanUtils.copyProperties
+2,Page,Pageable,PageRequst
+3,java.util.stream.map
