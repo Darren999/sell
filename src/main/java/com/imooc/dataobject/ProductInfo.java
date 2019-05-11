@@ -22,6 +22,6 @@ public class ProductInfo {
     private String productIcon;
     private Integer productStatus;
     private Integer categoryType;
-//    private Date createTime;
-//    private Date updateTime;
+    private Date createTime;
+    private Date updateTime;
 };

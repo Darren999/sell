@@ -21,9 +21,9 @@ public class ProductCategory {
 
     private Integer categoryType;
 
-//    private Date createTime;
-//
-//    private Date updateTime;
+    private Date createTime;
+
+    private Date updateTime;
 
 
     public ProductCategory(){

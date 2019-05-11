@@ -6,6 +6,7 @@ import javax.persistence.Entity;
 import javax.persistence.Id;
 import javax.persistence.Transient;
 import java.math.BigDecimal;
+import java.util.Date;
 import java.util.List;
 
 @Entity
@@ -20,4 +21,6 @@ public class OrderDetail {
     private BigDecimal productPrice;
     private Integer productQuantity;
     private String productIcon;
+    private Date createTime;
+    private Date updateTime;
 }
